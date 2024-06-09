@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904492496991",
+    "firebase_url": "https://flutter-twitter-app-v2-default-rtdb.firebaseio.com",
+    "project_id": "flutter-twitter-app-v2",
+    "storage_bucket": "flutter-twitter-app-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904492496991:android:ca4ec9ac217e6e09cf43ea",
+        "android_client_info": {
+          "package_name": "com.haluuvananh.twitter.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904492496991-v899oaq2nlamq0obuamlah4e85m7oqvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGZ8B9Z3A81Rhe_bIXIRNYz1CJolBFLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904492496991-v899oaq2nlamq0obuamlah4e85m7oqvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
